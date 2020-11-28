@@ -1,6 +1,7 @@
 import os
-from common import attach
-from common import org
+
+# from dlattach.common import attach
+from dlattach.common import gmail_api, org
 from datetime import datetime
 
 

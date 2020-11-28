@@ -1,7 +1,4 @@
-# TODO: USE GMAIL API: https://developers.google.com/gmail/api/quickstart/python
-# TODO: USE GMAIL API: https://blog.mailtrap.io/send-emails-with-gmail-api/
-# TODO: USE GMAIL API: https://medium.com/better-programming/a-beginners-guide-to-the-google-gmail-api-and-its-documentation-c73495deff08
-# TODO: USE GMAIL API: https://gist.github.com/Julian-Nash/428503b040047f49a40825f83ce152b0
+
 
 from __future__ import print_function  # TODO: Remove once print is not used in the code
 import pickle
@@ -12,6 +9,11 @@ from pathlib import Path as path
 from googleapiclient.discovery import build
 from google_auth_oauthlib.flow import InstalledAppFlow
 from google.auth.transport.requests import Request
+
+# TODO: USE GMAIL API: https://developers.google.com/gmail/api/quickstart/python
+# TODO: USE GMAIL API: https://blog.mailtrap.io/send-emails-with-gmail-api/
+# TODO: USE GMAIL API: https://medium.com/better-programming/a-beginners-guide-to-the-google-gmail-api-and-its-documentation-c73495deff08
+# TODO: USE GMAIL API: https://gist.github.com/Julian-Nash/428503b040047f49a40825f83ce152b0
 
 # If modifying these scopes, delete the file token.pickle.
 SCOPES = ['https://www.googleapis.com/auth/gmail.readonly']
