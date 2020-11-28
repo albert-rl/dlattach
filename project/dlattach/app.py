@@ -34,4 +34,4 @@ def main(user_name, password):
 
 
 if __name__ == '__main__':
-    resp, msg = main(user_name='albert.rodriguez.lopez', password='********')
+    resp, msg = main(user_name='gmail-user', password='gmail-password')
