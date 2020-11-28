@@ -1,5 +1,5 @@
 # dlattach - Project
-Python project in order to download attachments from your gmail account via the [gmail-api])(https://developers.google.com/gmail/api)
+Python project in order to download attachments from your gmail account via the [gmail-api](https://developers.google.com/gmail/api)
 
 ## References used for this project
 ### Usage of Gmail API
